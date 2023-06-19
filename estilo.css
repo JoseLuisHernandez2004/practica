@@ -1,0 +1,19 @@
+.contenedor{
+    background-color: rgb(100, 193, 209);
+    height: 500px ;
+    width: 800px;
+    place-items: center;
+
+    display: flex;
+    flex-direction: column;
+}
+input{
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    background-position: 20px;
+}
+
+table{
+    background-color: aqua;
+}
